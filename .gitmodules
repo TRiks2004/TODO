@@ -1,0 +1,6 @@
+[submodule "KeyShield"]
+	path = KeyShield
+	url = https://github.com/TRiks2004/KeyShield.git
+[submodule "DataVault"]
+	path = DataVault
+	url = https://github.com/TRiks2004/DataVault.git
